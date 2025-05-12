@@ -1,7 +1,7 @@
 import '../styles/Sec1.css'
 import left_image from '../assets/left_img.png'
 
-import image from '../assets/image.png'
+// import image from '../assets/image.png'
 import image2 from '../assets/image2.png'
 
 function Sec1 () {
@@ -40,7 +40,7 @@ function Sec1 () {
 
                 </div>
                 <div className="sec1-right">
-                    <div style={{backgroundImage: `url(${image})`}} className="sec1-right-up">
+                    <div style={{backgroundImage: `url(${image2})`}} className="sec1-right-up">
                     </div>
                     <div style={{backgroundImage: `url(${image2})`}} className="sec1-right-down">
                     </div>
