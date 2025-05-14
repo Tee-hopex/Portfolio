@@ -27,8 +27,8 @@ function Sec1 () {
                             <img src={left_image} alt="icon5" />
                         </div>
                         <div className='img6'>
-                            <img src={left_image} alt="icon6" />                   </div>
-
+                            <img src={left_image} alt="icon6" />                  
+                        </div>
                     </div>
                     <h1>
                         Tolu Hope                        

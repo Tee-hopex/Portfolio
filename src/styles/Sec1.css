@@ -115,19 +115,8 @@ section{
 
 
 
-
-
-
-
-
-
-
-
 .sec1-right {
-    /* background-color: white; */
     grid-column: 2;
-    /* border-end-end-radius: 20px;
-    border-start-end-radius: 20px; */
     display: grid;
     grid-template-rows: 1fr 1fr;
     gap: 15px;
@@ -137,9 +126,9 @@ section{
     grid-row: 1;
     background-color: white; 
     border-radius: 30px;
-    background-size: cover; /* or use background-size: auto 400px; if you want to control height */
+    background-size: cover; 
     background-repeat: no-repeat;
-    background-position: top; /* shows the top of the image */
+    background-position: top; 
     border-radius: 15px;
     padding: 20px;
     overflow: hidden;
@@ -149,9 +138,9 @@ section{
     grid-row: 2;
     background-color: white; 
     border-radius: 30px;
-    background-size: cover; /* or use background-size: auto 400px; if you want to control height */
+    background-size: cover; 
     background-repeat: no-repeat;
-    background-position: top; /* shows the top of the image */
+    background-position: top;
     border-radius: 15px;
     padding: 20px;
     overflow: hidden;
